@@ -1,0 +1,85 @@
+.warp {
+ width: 2000px;
+	margin: auto;
+	background: #DEB887;
+}
+.miniwarp{
+	width: 1240px;
+  margin-left: 380px;
+	background: #FAEBD7;
+}
+
+.head {
+	margin-bottom: 10px;
+	margin-left: 10px;
+	font-size: 23px;
+	font-family: segoe print;
+}
+
+.baner {
+	margin-bottom: 10px;
+	border: 1px solid #696969;
+  height: 500px;
+  width: 1240px;
+}
+
+.avtor {
+	margin-left: 40px;
+	font-size: 21px;
+  margin-top: 30px;
+	font-family: segoe script;
+}
+
+.p { /*отвечает за высторение меню*/
+	margin-left: 103px;
+	margin-bottom: 5px;
+	border: 1px solid #333; /* Рамка */
+    display: inline-block;
+    padding: 5px 5px; /* Поля */
+    text-decoration: none; /* Убираем подчёркивание */
+
+
+    box-shadow: 0 0 5px rgba(0,0,0,0.3); /* Тень */
+    background: linear-gradient(to bottom, #DCDCDC, #F5F5F5); /* Градиент */
+    color: #000000;/* Цвет текста */
+
+}
+
+.menu {
+	font-family: COMIC SANS MS;
+	font-size: 15px;
+}
+
+.inf { /*инфа о сайте*/
+	margin-left: 50px;
+	font-size: 22px;
+	font-family: segoe print;
+	color: #8B4513;
+}
+
+
+p { /*отвечает за информацию о сайте*/
+	margin-left: 10px;
+	font-size: 20px;
+	font-family: consolas;
+}
+
+
+.wer {/*класс помогающий делать отступ от низа*/
+	margin-bottom: 100px;
+}
+
+.low { /*подпись в низы страницы*/
+	margin-left: 3px;
+	font-family: segoe print;
+  margin-top: 40px;
+	font-size: 15px;
+}
+
+.writers {
+	height: 300px;
+	width: 250px;
+	border: 2px solid #808080;
+	margin-right: 120px;
+	margin-top: 20px;
+}

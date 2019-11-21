@@ -1,0 +1,87 @@
+.warp {
+    width: 1100px;
+	margin: auto;
+	background: #FAEBD7;
+}
+
+.head {
+	margin-left: 10px;
+	font-size: 23px;
+	font-family: segoe print;
+}
+
+.baner {
+	width: 1100px;
+	height: 500px;
+	border: 1px solid #696969;
+    margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.p {
+	margin-left: 93px;
+	margin-bottom: 5px;
+	border: 1px solid #333; /* Рамка */
+    display: inline-block;
+    padding: 5px 5px; /* Поля */
+    text-decoration: none; /* Убираем подчёркивание */
+  
+
+    box-shadow: 0 0 5px rgba(0,0,0,0.3); /* Тень */
+    background: linear-gradient(to bottom, #DCDCDC, #F5F5F5); /* Градиент */
+    color: #000000;/* Цвет текста */
+
+}
+
+.menu {
+	font-family: COMIC SANS MS; 
+	font-size: 15px;
+}
+
+.First{
+	font-size: 37px;
+	margin-left: 430px;
+	font-family: COMIC SANS MS;
+	margin-bottom: 45px;
+}
+
+.photo {
+	border: 1px solid #333;
+	width: 450px;
+	height: 300px;
+	margin-left: 1px;
+	margin-right: 9px;
+}
+
+.note {
+	 padding: 2px; /* Поля внутри блока */
+     margin: 5px 0 5px 5px; /* Отступы вокруг */
+     margin-left: 5px;
+}
+
+ .note figcaption {
+    margin: 0 auto 5px; /* Отступы вокруг абзаца */
+   font-size: 23px;
+   }
+
+    table {
+    width: 100%; /* Ширина таблицы */
+   }
+
+
+.one {
+	width: 50%;
+}
+
+.two {
+	width: 50%;
+}
+
+.low { /*подпись в низы страницы*/
+	margin-left: 3px;
+	font-family: segoe print;
+	font-size: 15px;
+}
+
+
+
